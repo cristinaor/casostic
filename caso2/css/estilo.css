@@ -1,0 +1,44 @@
+body {
+  background-color: burlywood;
+}
+#c1 {
+  background-color: white;
+  border-style: solid;
+  height: 50px;
+  width: 50px;
+  padding: 40px;
+  text-align: center;
+  margin: 10px;
+}
+#c2 {
+  background-color: white;
+  border-style: solid;
+  height: 50px;
+  width: 50px;
+  padding: 40px;
+  text-align: center;
+  margin: 10px;
+}
+#c3 {
+  background-color: white;
+  border-style: solid;
+  height: 50px;
+  width: 50px;
+  padding: 40px;
+  text-align: center;
+  margin: 10px;
+}
+#c4 {
+  background-color: white;
+  border-style: solid;
+  height: 50px;
+  width: 50px;
+  padding: 40px;
+  text-align: center;
+  margin: 10px;
+}
+#container {
+  display: flex;
+  justify-content: flex-end;
+  background-color: aquamarine;
+}

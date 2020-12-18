@@ -1,0 +1,40 @@
+body {
+  background-color: burlywood;
+}
+#c1 {
+  background-color: white;
+  border-style: solid;
+  height: 50px;
+  width: 50px;
+  text-align: center;
+  padding: 50px;
+}
+#c2 {
+  background-color: white;
+  border-style: solid;
+  height: 50px;
+  width: 50px;
+  text-align: center;
+  padding: 50px;
+}
+#c3 {
+  background-color: white;
+  border-style: solid;
+  height: 50px;
+  width: 50px;
+  text-align: center;
+  padding: 50px;
+}
+#c4 {
+  background-color: white;
+  border-style: solid;
+  height: 50px;
+  width: 50px;
+  text-align: center;
+  padding: 50px;
+}
+#container {
+  display: flex;
+  justify-content: space-around;
+  background-color: aquamarine;
+}
